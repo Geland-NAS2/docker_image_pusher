@@ -1,7 +1,6 @@
 nginx
 onlyoffice/documentserver:latest
 rustdesk/rustdesk-server:latest
-frooodle/Stirling-PDF-base:latest
 ollama/ollama:latest
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
